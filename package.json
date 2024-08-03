@@ -1,7 +1,7 @@
 {
-  "name": "template-ts-vite",
+  "name": "ts-rpg",
   "version": "1.1.0",
-  "description": "Excalibur TypeScript template for Vite",
+  "description": "RPG built on the Excalibur TypeScript template for Vite",
   "main": "index.js",
   "scripts": {
     "dev": "vite",
@@ -12,7 +12,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/excaliburjs/template-ts-vite.git"
+    "url": "git+https://github.com/Matt-Viner/ts-rpg"
   },
   "keywords": [
     "excalibur",
@@ -20,12 +20,12 @@
     "vite",
     "game-engine"
   ],
-  "author": "Erik Onarheim",
+  "author": "Matt Carpenter-Viner",
   "license": "BSD-2-Clause",
   "bugs": {
-    "url": "https://github.com/excaliburjs/template-ts-vite/issues"
+    "url": "https://github.com/Matt-Viner/ts-rpg/issues"
   },
-  "homepage": "https://github.com/excaliburjs/template-ts-vite#readme",
+  "homepage": "https://github.com/Matt-Viner/ts-rpg#readme",
   "devDependencies": {
     "excalibur": "0.29.3",
     "typescript": "5.5.4",
